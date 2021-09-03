@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaghvendraSKaloo
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m currently working on a Data Science idea for Final Year major project
+- 🌱 Trainee Developer at Ctronics Infotech Pvt. Ltd. Amravati 
+- 💞️ Open to work
 
 
 <!---
