@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghvendraskaloo&label=Profile%20views&color=0e75b6&style=flat" alt="raghvendraskaloo" /> </p>
 
-- 🔭 I’m currently working on **Data Science idea for Final Year project**
+- 🔭 I’m currently working on a **Data Science idea for Final Year project**
 
 - 🌱 I’m currently learning **AI, ML**
 
-- 👯 I’m currently working as a Trainee Developer at **Ctronics Infotech Pvt. Ltd. Amravati**
+- 👯 I’m currently working as a **Trainee Developer** at **Ctronics Infotech Pvt. Ltd. Amravati**
 
-- ⚡ Fun fact **I am a co-author in an anthology**
+- ⚡ Fun fact **I am a co-author in an anthology "Writer's Constellations"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
